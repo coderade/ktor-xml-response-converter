@@ -1,0 +1,1 @@
+rootProject.name = "ktor-content-negotiation-xml"
